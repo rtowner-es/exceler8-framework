@@ -1,0 +1,21 @@
+# Operating System Files
+.DS_Store
+
+# Node Modules
+node_modules/
+
+# Build Directory
+build/
+
+# VS Code
+.vscode/
+
+# npm logs
+npm-debug.log*
+
+# yarn logs
+yarn-error.log
+yarn-debug.log*
+
+# React related
+# Add other React-specific files if necessary
