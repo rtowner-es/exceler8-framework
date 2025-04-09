@@ -1,0 +1,24 @@
+{
+  "name": "exceler8_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Exceler8 Infographic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtowner-es/exceler8-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtowner-es/exceler8-framework/issues"
+  },
+  "homepage": "https://github.com/rtowner-es/exceler8-framework#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
